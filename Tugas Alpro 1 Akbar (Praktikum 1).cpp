@@ -10,7 +10,7 @@ int main (){
         // Untuk Variable
         int umur = 18;
         string nama = "Muhammad Rifky Akbar";
-        long long npm = 2210631170088;
+        string npm = "2210631170088";
         string goals = "Jadi web developer";
         string hobi = "Membaca Novel";
         string kelas = "1C Informatika";
